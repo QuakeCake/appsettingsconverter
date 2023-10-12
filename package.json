@@ -2,7 +2,7 @@
   "name": "app-settings-converter",
   "displayName": "App Settings Converter",
   "description": "Lets you convert App Settings into Azure Settings and vice-versa",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "AleksiSmithCendron",
   "engines": {
     "vscode": "^1.0.0"
@@ -19,11 +19,11 @@
     "commands": [
       {
         "command": "app-settings-converter.appToAzure",
-        "title": "App Settings To Azure Settings"
+        "title": "Convert: App Settings To Azure Settings"
       },
       {
         "command": "app-settings-converter.azureToApp",
-        "title": "Azure Settings To App Settings"
+        "title": "Convert: Azure Settings To App Settings"
       }
     ]
   },
