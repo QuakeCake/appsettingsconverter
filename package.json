@@ -2,7 +2,8 @@
   "name": "app-settings-converter",
   "displayName": "App Settings Converter",
   "description": "Lets you convert App Settings into Azure Settings and vice-versa",
-  "version": "0.1.2",
+  "version": "0.1.3",
+  "icon": "images/logo.png",
   "publisher": "AleksiSmithCendron",
   "engines": {
     "vscode": "^1.0.0"

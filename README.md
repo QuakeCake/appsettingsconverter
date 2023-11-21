@@ -11,6 +11,4 @@ Text editor commands:
 
 ## Release Notes
 
-### 0.1.0
-
-Initial release
+### [CHANGELOG.md](CHANGELOG.md)
